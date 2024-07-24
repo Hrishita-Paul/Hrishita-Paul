@@ -1,5 +1,5 @@
 ### Hi there,👋
-this is Hrishita Paul, a 3rd year undergraduate student pursuing Computer Science and Engineering at NIT Silchar.
+this is Hrishita Paul, a 4th year undergraduate student pursuing Computer Science and Engineering at NIT Silchar.
 
 - 🔭 I’m currently working on building efficient projects.
 - 🌱 I’m currently learning new programming languages and upskillling.
