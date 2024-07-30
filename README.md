@@ -5,7 +5,7 @@ this is Hrishita Paul, a 4th year undergraduate student pursuing Computer Scienc
 - 🌱 I’m currently learning new programming languages and upskillling.
 - 👯 I’m looking to collaborate on frontend web development projects.
 - 📫 How to reach me: hrishita.paul03@gmail.com
-## GSSOC(24) Badges 
+## GSSoC'24 Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
