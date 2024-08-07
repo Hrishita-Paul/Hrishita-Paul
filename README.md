@@ -8,6 +8,11 @@ I'm Hrishita Paul, a 4th-year undergraduate student pursuing a B.Tech in Compute
 - 👯 Seeking collaboration on frontend web development projects
 - 📫 Reach me at hrishita.paul03@gmail.com
 
+## My Profile
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishita-paul/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FE5F55?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/reinforcer/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=generic&logoColor=white)](https://auth.geeksforgeeks.org/user/hrishit4kfx)
 
 ## GSSoC'24 Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
