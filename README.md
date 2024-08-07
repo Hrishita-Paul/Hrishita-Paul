@@ -1,10 +1,14 @@
-### Hi there,👋
-this is Hrishita Paul, a 4th year undergraduate student pursuing Computer Science and Engineering at NIT Silchar.
+Hi there, 👋
+I'm Hrishita Paul, a 4th-year undergraduate student pursuing a B.Tech in Computer Science and Engineering at NIT Silchar.
 
-- 🔭 I’m currently working on building efficient projects.
-- 🌱 I’m currently learning new programming languages and upskillling.
-- 👯 I’m looking to collaborate on frontend web development projects.
-- 📫 How to reach me: hrishita.paul03@gmail.com
+- ✨ Former Technology Summer Analyst at Morgan Stanley (2024)
+- 🎯 Passionate open source contributor
+- 📍 Proficient in C++, HTML, CSS, JavaScript, React.js, Java, OOP, and DSA
+- 🔭 Currently focused on building efficient projects
+- 👯 Seeking collaboration on frontend web development projects
+- 📫 Reach me at hrishita.paul03@gmail.com
+
+
 ## GSSoC'24 Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -17,3 +21,4 @@ this is Hrishita Paul, a 4th year undergraduate student pursuing Computer Scienc
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Hrishita-Paul&show_icons=true&hide_border=true)
