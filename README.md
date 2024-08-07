@@ -8,7 +8,7 @@ I'm Hrishita Paul, a 4th-year undergraduate student pursuing a B.Tech in Compute
 - 👯 Seeking collaboration on frontend web development projects
 - 📫 Reach me at hrishita.paul03@gmail.com
 
-## My Profile
+## My Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishita-paul/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FE5F55?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/reinforcer/)
