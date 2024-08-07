@@ -21,7 +21,7 @@ I'm Hrishita Paul, a 4th-year undergraduate student pursuing a B.Tech in Compute
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
-
+<br/>
 
 ![Hrishita Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishita-Paul&show_icons=true&theme=radical)
 
