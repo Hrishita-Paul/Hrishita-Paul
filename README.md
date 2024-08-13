@@ -1,4 +1,5 @@
-![Poster_GitHub](https://github.com/user-attachments/assets/47db4490-a936-4586-99ce-fa2c3ea3de0a)
+<img src="https://github.com/user-attachments/assets/47db4490-a936-4586-99ce-fa2c3ea3de0a" alt="Poster_GitHub" width="1000" height="350">
+
 
 
 Hi there, 👋
