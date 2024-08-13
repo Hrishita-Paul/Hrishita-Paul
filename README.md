@@ -1,3 +1,6 @@
+![Poster_GitHub](https://github.com/user-attachments/assets/47db4490-a936-4586-99ce-fa2c3ea3de0a)
+
+
 Hi there, 👋
 I'm Hrishita Paul, a 4th-year undergraduate student pursuing a B.Tech in Computer Science and Engineering at NIT Silchar.
 
